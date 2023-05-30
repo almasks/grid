@@ -90,6 +90,17 @@ margin-bottom: 35px;
     grid-template-columns: 50% 25% 25%;
     padding: 50px;
 }
+.text-3{
+    margin-top: 200px;
+    margin-left: 130px;
+}
+.text-3 h1{
+    margin-bottom: 20px;
+}
+.text-3 p{
+    font-size: large;
+    margin-bottom: 20px;
+}
 .row-3col{
     background-color: #fff;
     padding: 60px 31px;
@@ -125,4 +136,70 @@ margin-top: 100px;
     display: flex;
     justify-content: space-around;
     background-color: #d9d9d9;
+    padding: 60px;
+    font-size: smaller;
 }
+.row-5 button{
+    background: transparent;
+    font-weight: 600;
+    height: 40px;
+    padding: 10px 30px;
+}
+.row-6{
+    margin: 70px;
+}
+.team-img{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    margin-bottom: 35px;
+}
+.team-imgs{
+    display: flex;
+    justify-content: space-evenly;
+}
+.img-name{
+    text-align: center;
+}
+.row-6 h1{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.img-name p{
+    font-weight: bold;
+    font-size: larger
+}
+.res-col{
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+.resrow{
+    margin: 30px 110px;
+    font-size: large;
+}
+.resrow h1{
+    font-size: x-large;
+    margin-bottom: 20px;
+}
+
+.resume-h1{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.resrow p{
+    margin-bottom: 20px;
+    color: #605858;
+}
+.resrow a{
+    color: darkgray;
+}
+.resume-img{
+    width: 50%;
+    height: 350px;
+    margin-bottom: 50px;
+}
+.rescol-2 h1{
+    font-size: x-large;
+    margin-top: 20px;
+}
+
